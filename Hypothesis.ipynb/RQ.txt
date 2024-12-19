@@ -1,0 +1,34 @@
+Client:
+William Rodriguez	Buyer	2 people, country (best timing & non-renovated) & city house (fast & central location), wants two houses
+
+
+
+Houses located closer to the city center have higher price per sqft than houses on the countryside.
+   
+The longer the time is in which a house has not been renovated the lower the condition of the house is.
+
+Houses with a waterfront have tinier basements compared to houses without a waterfront.
+
+
+What do we want to know about the data first? 
+
+RQ1 price of houses near center --> what houses are closer, what are their prices
+
+RQ2: Renovation time and condition in a scatterplot or a histogram
+
+RQ3: Barplot with x axis waterfront and no waterfront, y axis with size per sqft of basement
+
+
+
+What are the most important columns? 
+
+Waterfront
+Price
+sqft basement
+close to center
+renovation
+
+
+
+
+
