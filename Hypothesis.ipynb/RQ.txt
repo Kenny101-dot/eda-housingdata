@@ -4,11 +4,12 @@ William Rodriguez	Buyer	2 people, country (best timing & non-renovated) & city h
 
 
 Houses located closer to the city center have higher price per sqft than houses on the countryside.
-   
+is proven right. 
+ 
 The longer the time is in which a house has not been renovated the lower the condition of the house is.
 
 Houses with a waterfront have tinier basements compared to houses without a waterfront.
-
+Is proven wrong.
 
 What do we want to know about the data first? 
 
@@ -19,14 +20,9 @@ RQ2: Renovation time and condition in a scatterplot or a histogram
 RQ3: Barplot with x axis waterfront and no waterfront, y axis with size per sqft of basement
 
 
+Questions open: 
 
-What are the most important columns? 
-
-Waterfront
-Price
-sqft basement
-close to center
-renovation
+Renovation = 0 and condition relation to reno=1(renovated) 
 
 
 
