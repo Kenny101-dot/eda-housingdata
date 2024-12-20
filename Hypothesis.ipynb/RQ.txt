@@ -25,6 +25,7 @@ Questions open:
 Renovation = 0 and condition relation to reno=1(renovated) 
 
 
+substrate the number of basements(sqft) of seattle from the dataset - check how many miles include seattle
 
 
 
